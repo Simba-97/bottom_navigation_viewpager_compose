@@ -1,2 +1,2 @@
-# bottom_navigation_viewpager_compose
+# Bottom navigation with Viewpager (Compose)
 Bottom Navigation with Accompanist Viewpager in Jetpack Compose
